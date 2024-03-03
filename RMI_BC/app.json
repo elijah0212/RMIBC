@@ -1,0 +1,46 @@
+{
+  "id": "30c7ab78-6345-4a12-8730-6333abe3e5b1",
+  "name": "RMI - Sales Module",
+  "publisher": "Elijah Pajanostan/Jerome Lopez",
+  "version": "1.1.3.56",
+  "brief": "",
+  "description": "SIS Integration",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "cf8faba3-91aa-4d6a-bca7-cdb64891dc80",
+      "publisher": "Kation Technologies Inc.",
+      "name": "KTI-DF/Up",
+      "version": "1.0.0.25"
+
+    },
+    {
+      "id": "f1b16443-d129-40a2-8ff1-22db348864e9",
+      "publisher": "Kation Technologies Inc.",
+      "name": "Philippine Taxation",
+      "version": "2.30.0.34"
+    }
+  ],
+  "screenshots": [],
+  "application": "23.0.0.0",
+  "platform": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50600,
+      "to": 59999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "11.1",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
